@@ -1,0 +1,13 @@
+h1{
+    color: blueviolet;
+}
+h1:hover{
+    color: aqua;
+}
+.second:focus{
+    color:red;
+}
+
+a:visited{
+    color: magenta;
+}
